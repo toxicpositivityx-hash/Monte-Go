@@ -1,0 +1,5 @@
+{
+  "name": "MonteGo",
+  "description": "AI-powered Monte Carlo simulation engine for predicting real-world events with visual generation capabilities.",
+  "requestFramePermissions": ["camera", "microphone"]
+}
